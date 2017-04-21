@@ -8,5 +8,6 @@ namespace ClassLibrary2
 {
     public class Class1
     {
+        //I was here!
     }
 }
